@@ -1,0 +1,14 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/bin/Debug/net8.0/Aula01.Console.OO
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/bin/Debug/net8.0/Aula01.Console.OO.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/bin/Debug/net8.0/Aula01.Console.OO.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/bin/Debug/net8.0/Aula01.Console.OO.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/bin/Debug/net8.0/Aula01.Console.OO.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/refint/Aula01.Console.OO.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/Aula01.Console.OO.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.OO/obj/Debug/net8.0/ref/Aula01.Console.OO.dll

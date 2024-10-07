@@ -1,0 +1,14 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/bin/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/bin/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/bin/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/bin/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/bin/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/refint/Aula01.Console.Estruturado.TopLevelStatements.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/Aula01.Console.Estruturado.TopLevelStatements.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula01/Aula01.Console.Estruturado.TopLevelStatements/obj/Debug/net8.0/ref/Aula01.Console.Estruturado.TopLevelStatements.dll
