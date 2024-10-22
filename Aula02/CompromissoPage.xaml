@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aula02.CompromissoPage"
+             Title="Novo Compromisso">
+
+    <StackLayout Padding="20">
+
+        <!-- Campo de Data -->
+        <Label Text="Data:" />
+        <Entry x:Name="DataEntry" Placeholder="Ex: 15/10/2024" />
+
+        <!-- Campo de Hora -->
+        <Label Text="Hora:" />
+        <Entry x:Name="HoraEntry" Placeholder="Ex: 14:30" />
+
+        <!-- Campo de Local -->
+        <Label Text="Local:" />
+        <Entry x:Name="LocalEntry" Placeholder="Ex: Escritório" />
+
+        <!-- Campo de Descrição -->
+        <Label Text="Descrição:" />
+        <Entry x:Name="DescricaoEntry" Placeholder="Ex: Reunião importante" />
+
+        <!-- Botão para Salvar o Compromisso -->
+        <Button Text="Salvar Compromisso" Clicked="OnSaveButtonClicked" />
+
+        <!-- Label para exibir o resultado -->
+        <Label x:Name="ResultadoLabel"
+               Text=""
+               TextColor="Green"
+               FontSize="Medium"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+    </StackLayout>
+</ContentPage>

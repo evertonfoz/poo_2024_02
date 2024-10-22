@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula02/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula02/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Aula02.app

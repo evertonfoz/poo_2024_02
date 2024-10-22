@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3D958908-FEFC-4046-9945-793134176624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compromisso", "Compromisso\Compromisso.csproj", "{F7B2FD19-9160-4784-B9F9-B0FA0D514126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D958908-FEFC-4046-9945-793134176624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D958908-FEFC-4046-9945-793134176624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D958908-FEFC-4046-9945-793134176624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D958908-FEFC-4046-9945-793134176624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B2FD19-9160-4784-B9F9-B0FA0D514126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B2FD19-9160-4784-B9F9-B0FA0D514126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B2FD19-9160-4784-B9F9-B0FA0D514126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B2FD19-9160-4784-B9F9-B0FA0D514126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

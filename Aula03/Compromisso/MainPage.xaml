@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Compromisso.MainPage">
+
+    <StackLayout Padding="20">
+        <!-- <Label Text="Data"/> -->
+        <Entry x:Name="DataEntry" Placeholder="Digite uma Data" />
+        <Entry x:Name="HoraEntry" Placeholder="Digite uma Hora" />
+        <Entry x:Name="LocalEntry" Placeholder="Digite um Local" />
+        <Entry x:Name="DescricaoEntry" Placeholder="Digite uma Descrição" />
+
+        <Button Text="Salvar" Clicked="OnSalvarClicked" />
+
+        <Label x:Name="ResultadoLabel" />
+    </StackLayout>
+
+</ContentPage>

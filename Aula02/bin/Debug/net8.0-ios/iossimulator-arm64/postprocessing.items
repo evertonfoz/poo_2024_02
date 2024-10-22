@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Aula02.app/Aula02">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>Aula02.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Aula02.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula02/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Aula02.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2024_02/Aula02</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
